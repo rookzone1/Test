@@ -7,7 +7,7 @@
 <title>Hello JSP</title>
 </head>
 <body>
-Hello JSP~----= <br>
+Hello JSP~----dd= <br>
 Now Data is <%= new java.util.Date() %> 입니다!
 </body>
 </html>
